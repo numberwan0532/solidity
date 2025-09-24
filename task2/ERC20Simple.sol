@@ -71,5 +71,7 @@ contract ERC20Simple {
     }
 
 }
-//合约地址
+//测试网合约地址
 //0x2E8Bd53369b6459C3E0e19aB8790322eC7482909
+
+//ipfs://bafkreigzms2n6wzxzfyfg44qrdytarv7hjazkmrsvpercd3yhhgxbfeeeu
