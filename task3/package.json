@@ -1,0 +1,22 @@
+{
+  "name": "task3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@chainlink/contracts": "^1.4.0",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^17.2.2",
+    "hardhat": "^2.22.2",
+    "hardhat-deploy": "^1.0.4"
+  },
+  "dependencies": {
+    "@openzeppelin/hardhat-upgrades": "^3.9.1"
+  }
+}
